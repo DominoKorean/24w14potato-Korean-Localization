@@ -1,0 +1,12 @@
+{
+    "pack": {
+      "pack_format": 31,
+      "description": [
+        { "text": "◆ 24w14potato ", "color": "aqua" },
+        { "text": "🥔 \n", "color": "gray" },
+        { "text": "버전: ", "color": "gray", "bold": true},
+        { "text": "1.2", "color": "gray"}
+      ]
+    }
+  }
+  
