@@ -5,6 +5,7 @@
 
 
 ![](screenshots/2024-04-03_00.36.57.png)
+![](screenshots/src.png)
 
 <br/>
 
@@ -29,3 +30,10 @@
 
 - 파일 공유는 가능하면 삼가해주세요.
 - 번역 오류나 더 나은 제안이 있다면 [Issues](https://github.com/DominoKorean/24w14potato-Korean-Localization/issues)에서 해주시면 됩니다.
+
+<br/>
+
+---
+
+# Credit
+- **Grumm**: texts 폴더 파일의 번역 수정
